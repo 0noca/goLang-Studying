@@ -2,7 +2,7 @@
 
 
 Use `const` for variables, that shouldn't change
-Use `var` for variables, that can be chaned
+Use `var` for variables, that can be changed
 
 When asking for an user input, make sure to define, what you're going to use e.g
 `var userName string` here we're asking for a username
