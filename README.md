@@ -14,3 +14,16 @@ Use `Printf` to use variables in ur print methods
 Use `Println` to print the text on a new line
 
 e.g `fmt.Printf("Welcome %v \n", userAccountName)`
+
+# User Inputs
+
+`fmt.Scan(&<variableName>)`
+We're passing the refrence
+
+use `uint` for positive number variables
+
+# Arrays
+
+`var variableName [size]variableType`
+
+e.g `var bookings = [50]string{}`
